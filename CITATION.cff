@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "Please cite the FOCAL paper when using this reproduction package."
+title: "FOCAL Reproduction Code"
+type: software
+version: 0.1.0
+date-released: 2026-07-19
+license: MIT
+repository-code: "https://github.com/Haoran2099/focal"
+authors:
+  - family-names: Yin
+    given-names: Haoran
+  - family-names: Wen
+    given-names: Zhiyuan
+  - family-names: Cao
+    given-names: Jiannong
+  - family-names: Yuan
+    given-names: Bo
+  - family-names: Yang
+    given-names: Ruosong
+preferred-citation:
+  type: article
+  title: "FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization"
+  year: 2026
+  doi: "10.48550/arXiv.2604.19541"
+  url: "https://arxiv.org/abs/2604.19541"
+  authors:
+    - family-names: Yin
+      given-names: Haoran
+    - family-names: Wen
+      given-names: Zhiyuan
+    - family-names: Cao
+      given-names: Jiannong
+    - family-names: Yuan
+      given-names: Bo
+    - family-names: Yang
+      given-names: Ruosong
