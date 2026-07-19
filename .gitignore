@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.env
+.env.*
+!.env.example
+/build/
+/dist/
+/*.egg-info/
+/outputs/*
+!outputs/README.md
+experiments_window_based/session_summary_eval/output/
+experiments_window_based/session_summary_eval/cache/
+/data/*
+!data/README.md
