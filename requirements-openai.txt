@@ -1,2 +1,2 @@
 -r requirements.txt
-openai>=1.0.0
+openai>=2.50.0
